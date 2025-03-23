@@ -1,4 +1,4 @@
-/*Faça uma pilha*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,7 +20,7 @@
             return novo_no;
         }else
         {
-            printf("Erro ao alocar memória!");
+            printf("Erro ao alocar memÃ³ria!");
             return NULL;
         }
     }
